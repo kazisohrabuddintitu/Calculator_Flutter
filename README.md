@@ -1,4 +1,4 @@
-# practice
+# Calculator
 
 A new Flutter project.
 
